@@ -1,0 +1,38 @@
+* {
+}
+
+body {
+  text-align: center;
+  color: red;
+  width: 75%;
+  margin: 0 auto;
+}
+
+h1 {
+}
+h2 {
+  margin-bottom: 10px;
+}
+table,
+th,
+td {
+  border: 1px solid;
+}
+table {
+  width: 100%;
+  margin-top: 5px;
+  border-spacing: 5px;
+}
+
+th {
+  background-color: white;
+}
+
+tr {
+  width: 100%;
+  border: 1px solid;
+}
+
+td {
+  border: 1px solid;
+}
